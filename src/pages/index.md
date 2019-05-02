@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: This is why Netlify is so much better than Sitecore
-image: /img/sitecore-colour-logo.jpg
+image: /img/logositecorelogostackedwithtaglineredblack.jpg
 heading: This is how you build websites in 2019
 subheading: 'Deployed and edited this in few minutes, for free'
 mainpitch:
